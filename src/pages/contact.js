@@ -9,11 +9,10 @@ const ContactPage = () => {
       <Head pageTitle="Contact" />
       <h1>Contact</h1>
       <p>
-        The best way to reach me is via{" "}
-        <a href="https://twitter.com/elonmusk" target="_blank" rel="noreferrer">
-          @elonmusk
-        </a>{" "}
-        on Twitter!
+        Find in in instagram {" "}
+        <a href="https://www.instagram.com/al.bertorio" target="_blank" rel="noreferrer">
+          @al.bertorio
+        </a>
       </p>
     </Layout>
   )
